@@ -1,0 +1,1 @@
+dont forget to install streamlit and yfinance
